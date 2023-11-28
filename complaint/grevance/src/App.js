@@ -1,8 +1,8 @@
 
 import './App.css';
 import React, { useState } from 'react';
-import LoginForm from './LoginForm';
-import ComplaintForm from './ComplaintForm';
+import LoginForm from './frontend/LoginForm';
+import ComplaintForm from './frontend/ComplaintForm';
 
 
 const App = () => {
